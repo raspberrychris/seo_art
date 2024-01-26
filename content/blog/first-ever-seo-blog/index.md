@@ -1,5 +1,5 @@
 ---
-title: "First ever SEO blog"
+title: "Man writes first ever SEO blog"
 description: "Contact page description"
 date: "2024-01-19"
 author: "SEO Art"
