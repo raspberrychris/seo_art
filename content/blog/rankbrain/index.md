@@ -1,6 +1,6 @@
 ---
 title: "RankBrain is released"
-description: "Contact page description"
+description: "RankBrain is released"
 date: "2024-01-26"
 author: "SEO Art"
 thumbnail: "thumbnail.png"
@@ -11,5 +11,5 @@ cascade:
   invertPagination: true
 ---
 
-![headless-seo](/rankbrain.png)
+![rankbrain-is-released](/rankbrain.png)
 

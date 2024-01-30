@@ -1,6 +1,6 @@
 ---
 title: "Ranking number one for the first time"
-description: "Contact page description"
+description: "Ranking number one for the first time"
 date: "2024-01-19"
 author: "SEO Art"
 thumbnail: "thumbnail.png"
@@ -11,5 +11,5 @@ cascade:
   invertPagination: true
 ---
 
-![headless-seo](/ranking-no-1.png)
+![ranking-no-1](/ranking-no-1.png)
 
